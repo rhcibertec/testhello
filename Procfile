@@ -1,1 +1,1 @@
-web mvn spring-boot:run
+web java -jar target/hello-world-microservice-0.0.1-SNAPSHOT.jar
